@@ -1,0 +1,10 @@
+Yaswanth git commands
+
+working area
+staging area
+local repo
+remote rep
+
+git add filename
+git commit -m "msg"
+git push 
