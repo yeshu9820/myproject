@@ -8,3 +8,7 @@ remote rep
 git add filename
 git commit -m "msg"
 git push 
+
+
+git remote add origin url
+git remote remove origin
